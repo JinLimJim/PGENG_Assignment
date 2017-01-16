@@ -29,9 +29,5 @@ void AFloatingActor::Tick( float DeltaTime )
 	NewLocation.Z += DeltaHeight * 20.0f;
 	RunningTime += DeltaTime;
 	SetActorLocation(NewLocation);
-	
-	if ()
-	{
 
-	}
 }
